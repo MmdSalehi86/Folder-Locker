@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Convert_Binary/.vs/Convert_Binary
+/Convert_Binary/Convert_Binary/.vs
+/Convert_Binary/Convert_Binary/bin/Debug
+/Convert_Binary/Convert_Binary/obj
